@@ -1,1 +1,1 @@
-# Loan-Prediction-Problem-using-KNN-Algorithm
+# Loan-Prediction-Problem
