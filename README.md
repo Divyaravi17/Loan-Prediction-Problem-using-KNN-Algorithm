@@ -19,10 +19,16 @@ This is a simple Classification problem to classify whether a loan will be appro
 1. Yes - Loan Approved
 2. No - Loan not approved
 
-### Techniques
+### Data Analysis
 1. Missing values
 2. Outlier detection
 3. Feature Engineering - Categorical Variables, Feature Selection (Select KBest, Chi square, ANOVA, Pearson Correlation, p-value)
 4. Feature Scaling - Standard Scaler 
+5. Hyperparameter tuning
 
-Also various Algorithms are applied with Hyper parameter tuning to choose the one which has best accuracy, to deploy it.
+### Algorithms used
+1. Decision Tree
+2. K-Nearest Neighbor
+3. Logistic Regression
+4. SVM
+5. Random Forest
